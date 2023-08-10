@@ -7,7 +7,7 @@ $ npm install
 $ npm start
 ````
 
-<img src="LeadTrackerchromeExtension.png">
+<img src="chromeExtensionLeadTracker.png">
 
 
 
